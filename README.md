@@ -1,1 +1,1 @@
-simple in which you can smartphone and generate bill according to price
+simple module in which you can smartphone and generate bill according to price
